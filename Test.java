@@ -9,7 +9,3 @@ public class Test{
 		m2.showNilai();
 	}
 }
-
-// 1 Nov 2018
-// Kris		TH
-// Karin	TH
